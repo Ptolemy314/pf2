@@ -8,7 +8,6 @@
     <artifactId>Pf_2_1</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>Pf_2.1</name>
-
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.12.1</junit.version>
