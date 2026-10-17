@@ -38,7 +38,7 @@ class Supervisor {
 
 /*
 create the projectgroup class and it's attributes (Projectname, students in the group, supervisor)
-as well as conditions such as max members, and
+as well as conditions such as max members
 */
 class ProjectGroup {
     private String name;
